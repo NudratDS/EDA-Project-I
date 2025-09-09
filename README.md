@@ -63,12 +63,7 @@ runtime
 
 ...and more.
 
-📷 Visual Preview
 
-Includes banners or marketing visuals like:
-
-Blue Modern Digital Marketing Agency LinkedIn Banner_20250820_121748_0004.png
-(Optional asset, could be used in project presentation or LinkedIn posts.)
 
 🛠️ Technologies Used
 
