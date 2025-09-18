@@ -41,7 +41,6 @@ Who are the most profitable directors or actors?
 
 Filename: movie_profit.csv
 
-Source: [Not Specified — Add Source if available]
 
 Features Include:
 
